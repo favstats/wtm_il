@@ -135,7 +135,7 @@ if(sets$cntry %in% country_codes & nrow(thedat)!=0){
   raw <- readRDS("../data/election_dat30.rds") %>%
     rename(internal_id = page_id) %>%
     filter(is.na(no_data)) %>% 
-    filter(sources == "wtm")
+    filter(sources %in% c("wtm", "tep"))
   
   if(nrow(raw)==0){
     election_dat30 <- tibble()
@@ -149,8 +149,8 @@ if(sets$cntry %in% country_codes & nrow(thedat)!=0){
   
   raw <- readRDS("../data/election_dat7.rds") %>%
     rename(internal_id = page_id) %>%
-    filter(is.na(no_data)) %>% 
-    filter(sources == "wtm")
+    filter(is.na(no_data))  %>% 
+    filter(sources %in% c("wtm", "tep"))
   
   if(nrow(raw)==0){
     election_dat7 <- tibble()
@@ -162,7 +162,7 @@ if(sets$cntry %in% country_codes & nrow(thedat)!=0){
   
 }
 
-print("hello")
+# print("hello")
 
 
 # election_dat30test <<- election_dat30
@@ -197,7 +197,7 @@ last30days_string <- paste0(create_date(begin30), " - ", create_date(fin), " ", 
 # 
 # # Reset locale back to the original if necessary
 # Sys.setlocale("LC_TIME", "C")
-print("oo")
+# print("oo")
 
 if(nrow(election_dat30)!=0){
   

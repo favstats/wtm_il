@@ -8,7 +8,7 @@ color_dat <- readRDS("data/color_dat.rds")
 raw <- readRDS("data/election_dat30.rds") %>%
   rename(internal_id = page_id) %>%
   filter(is.na(no_data)) %>% 
-  filter(sources == "wtm")
+  filter(sources %in% c("wtm", "tep"))
 
 if(nrow(raw)==0){
   election_dat30 <- tibble()
@@ -48,7 +48,7 @@ try({
     
     rmarkdown::render("logs/index.Rmd")
     
-    file.copy(from = "logs/index.Rmd", to = "docs/index.html", overwrite = T)
+    file.copy(from = "logs/index.html", to = "docs/index.html", overwrite = T)
     
     unlink("node_modules", recursive = T, force = T)
     unlink("out", recursive = T, force = T)
