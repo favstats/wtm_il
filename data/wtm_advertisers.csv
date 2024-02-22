@@ -1,59 +1,59 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-04016a22-98c3-4fd8-bfd3-67e8b3178458,Orly Levy Abkasis,2022-08-16T15:24:01.957Z,b9cc446e-5dc6-4998-bcc1-26cf36d83e5a,GSR,Israel,il,612784452070209,Orly Levy Abkasis,Facebook
-33c30453-630d-4daf-b030-aa00ab155834,Gesher,2022-08-16T15:24:01.952Z,1d4c7acc-3e06-4f43-b356-e47f38d99167,GSR,Israel,il,338838956712485,Gesher,Facebook
-111e1515-a580-43e1-b0f4-95bae381becb,Binyamin Lachkar - בנימין לאשקר,2022-08-16T15:24:30.834Z,e2b8a3a7-e64c-4e29-be9e-3f7154c4994b,LIK,Israel,il,300013370196836,Binyamin Lachkar - בנימין לאשקר,Facebook
-16612660-6708-4d37-9c79-52be0d9fe7ca,Benjamin Netanyahu,2022-08-16T15:24:01.754Z,cfcfcd86-c877-4fd4-a63f-5d3146e9468a,LIK,Israel,il,268108602075,Benjamin Netanyahu,Facebook
-760972db-b2f6-418e-a410-abf78ad53c86,Likud,2022-08-16T15:24:01.752Z,4cb37569-daea-456b-982d-1f14a1504666,LIK,Israel,il,109970322392972,Likud,Facebook
-1a323d08-f21c-44df-91aa-9cfd1428ac1e,בני גנץ - Benny Gantz,2022-08-16T15:24:02.153Z,27b42863-c61b-4a1f-a823-c7873e6050f7,KAL,Israel,il,266097474067652,בני גנץ - Benny Gantz,Facebook
-1e111da0-68a5-4227-bec7-0adf734497c7,Yair Lapid,2022-08-16T15:24:01.901Z,37695310-008e-49b8-a0bb-003d6c686f60,KAL,Israel,il,107836625941364,Yair Lapid,Facebook
-37ad33d6-374f-4915-b397-45dd4a5fdc25,Benny Gantz,2022-08-16T15:24:01.946Z,59a8e7b2-1328-46d0-af20-43065f8a843f,KAL,Israel,il,266098094067590,Benny Gantz,Facebook
-8aec2741-b06b-4c36-b9cc-424ce8854da0,Hosen Le`israel,2022-08-16T15:24:01.910Z,d963ee58-d3cb-415b-9b7d-8b81ac65cdce,KAL,Israel,il,224673221745617,Hosen Le`israel,Facebook
-a4000469-fbef-4454-9d16-db4b76d5dc22,Yesh Atid,2022-08-16T15:24:01.898Z,ad124a0d-f6a7-4573-a035-3d99cc65957a,KAL,Israel,il,426502237384307,Yesh Atid,Facebook
-c171a5af-2341-4862-bfcf-d1e50f84eb18,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",2022-08-16T15:24:18.457Z,b1dad184-c438-4fe5-b65d-4ff553f31480,KAL,Israel,il,173196886046831,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",Facebook
-efcb5a2c-07a5-4c32-abee-af4805df0283,גבי אשכנזי - Gabi Ashkenazi,2022-08-16T15:24:28.054Z,486b0501-c080-4ec6-8e02-f801c8f79f48,KAL,Israel,il,256477885275117,גבי אשכנזי - Gabi Ashkenazi,Facebook
-275592e6-0d55-450a-a507-e1ccde4d048d,Meretz,2022-08-16T15:24:02.005Z,b077da07-c2af-4b94-be1b-03955a75cd19,MRZ,Israel,il,7661338127,Meretz,Facebook
-7be4d677-2a2d-4c32-bae5-f8dbe41e8a6e,Tamar Zandberg,2022-08-16T15:24:02.022Z,5cb1bb2b-9ecc-4fdf-9b08-aeee5c5bc26d,MRZ,Israel,il,284775634985944,Tamar Zandberg,Facebook
-021d388d-9df9-4fda-ae42-2fa57a5027a8,Avigdor Liberman,2022-08-16T15:24:01.820Z,b1f12ef2-35fb-4e26-8325-115f2ffb56f5,ISB,Israel,il,178433145502975,Avigdor Liberman,Facebook
-55b30641-7746-4606-af51-9fdab4bd5a70,ישראל ביתנו beytenu,2022-08-16T15:24:01.819Z,4f8fec8b-dd9e-4cc9-a0b7-fcb5200aa830,ISB,Israel,il,370270343005611,ישראל ביתנו beytenu,Facebook
-235f0b94-a0d5-4b5b-b659-659656f7426c,מפלגת צדק חברתי,2022-08-16T15:24:30.610Z,1022bb32-69c5-4d66-b6bd-401a61f93c3a,OTH,Israel,il,208201792645090,מפלגת צדק חברתי,Facebook
-23c3ca6f-451f-47f6-8239-529c4460c635,"גל הירש - יו""ר מפלגת מגן",2022-08-16T15:24:18.458Z,2bbeee67-8e1d-4c56-8b07-541dd50302a3,OTH,Israel,il,366819140098730,"גל הירש - יו""ר מפלגת מגן",Facebook
-26edc750-3117-4b4c-b401-560e29ecbc6e,אורן חזן - Oren Hazan,2022-08-16T15:24:30.572Z,e5f857f8-3a2b-4fab-9624-39dbad452703,OTH,Israel,il,500681436740099,אורן חזן - Oren Hazan,Facebook
-2791ef6d-f325-4c24-a65c-3d06b63d6231,"Da""am Party - מפלגת דעם - حزب دعم",2022-08-16T15:24:30.832Z,ac3eb03c-7b27-4107-9f8e-28d07826fa55,OTH,Israel,il,224993517556428,"Da""am Party - מפלגת דעם - حزب دعم",Facebook
-50499867-b03a-476f-a21b-417059f50106,יהדות התורה,2022-08-16T15:24:28.002Z,ccd473e3-e37d-4f85-9b8e-2406bcea905a,OTH,Israel,il,526338024136443,יהדות התורה,Facebook
-59296472-f951-4d4d-8bde-e1189ec085a9,מפלגת ישר,2022-08-16T15:24:18.493Z,472ef552-52a2-40ab-b74f-37269959d38f,OTH,Israel,il,393249031211315,מפלגת ישר,Facebook
-88abaea1-e82d-4c8b-b448-b1a0ee51958f,אברהם פורז - Avraham Poraz,2022-08-16T15:24:30.832Z,0ae12b0f-2ef8-45cc-804f-c376081682bd,OTH,Israel,il,407055960112051,אברהם פורז - Avraham Poraz,Facebook
-a219d8bf-54a9-4788-97ee-4e14da012a45,אלי ישי,2022-08-16T15:24:18.458Z,e3a44e64-4913-42f1-98f3-5a21d41c3828,OTH,Israel,il,137409609701165,אלי ישי,Facebook
-ae3f5cb4-9fc7-4a23-8fbc-880796d1325f,Make Israel Great Again,2022-08-16T15:24:18.495Z,e376fcd8-c751-4b3c-a977-d4d763ffd49b,OTH,Israel,il,1872240076389608,Make Israel Great Again,Facebook
-05faba39-85b1-4235-ab45-bf97d646a26e,Naftali Bennet,2022-08-16T15:24:01.840Z,5e8e602b-712f-47d6-a6c1-665b3aa04db2,YMH,Israel,il,396697410351933,Naftali Bennet,Facebook
-4b3a0bdd-aa70-4c4b-acff-9fd2e42eff11,Ayelet Shaked,2022-08-16T15:24:01.838Z,4cc1a916-e410-4328-b599-76a654c65480,YMH,Israel,il,237683826350051,Ayelet Shaked,Facebook
-660a5b58-89a5-4a9a-942d-eb8d1de82b07,NewYaminParty,2022-08-16T15:24:01.828Z,3aba3d6d-62b2-4f1c-975c-750f20cc3cdf,YMH,Israel,il,754532351579456,NewYaminParty,Facebook
-14e6cbe6-1b0c-4767-8144-8b9c1acb8d44,ברוך מרזל - העמוד הרשמי,2022-08-16T15:24:02.227Z,e5177d7f-2f90-4163-a06b-5b93249cb66c,BAY,Israel,il,1457371761180290,ברוך מרזל - העמוד הרשמי,Facebook
-153e406c-4cad-4e3a-a862-85b03c850132,רפי פרץ,2022-08-16T15:24:02.191Z,09d82167-515e-4716-b3e8-a3db74a046ed,BAY,Israel,il,374907306627396,רפי פרץ,Facebook
-1630f9a1-4e37-4967-9818-39abf30f0d1d,בצלאל סמוטריץ` - bezazelsmotrich,2022-08-16T15:24:01.708Z,4d69ed7c-8de1-45d5-bf1b-283e28bab3ee,BAY,Israel,il,429184557235927,בצלאל סמוטריץ` - bezazelsmotrich,Facebook
-41143ade-135d-4d46-ac6c-f323d36ea892,Ichud Leumi,2022-08-16T15:24:01.774Z,b16f95a8-a860-4fcc-932c-83dfb5138cd1,BAY,Israel,il,175285029214345,Ichud Leumi,Facebook
-4478770a-1114-48c1-a77f-b83ea575b658,איחוד מפלגות הימין,2022-08-16T15:24:28.058Z,57bc301f-d57e-4ff5-8b94-c8f1728c4566,BAY,Israel,il,591619938020008,איחוד מפלגות הימין,Facebook
-ae3c4c61-7d8c-4e1f-8fe8-047050f68eb2,איתמר בן גביר,2022-08-16T15:24:02.236Z,ba351073-fb70-46e6-82a3-372d1e37be9d,BAY,Israel,il,281777035357977,איתמר בן גביר,Facebook
 c8e9fe1d-a06f-462c-8d28-ccc375f0bc0e,Jewish Home - Habait Hayehudi,2022-08-16T15:24:01.761Z,2087bcf7-0a8c-4254-8813-550b0fe37b1d,BAY,Israel,il,519447478106655,Jewish Home - Habait Hayehudi,Facebook
-f41ff260-62c4-421f-9fff-271c3a66ab20,עוצמה יהודית,2022-08-16T15:24:01.779Z,ee14a9fc-9e40-43e8-bc30-d7a8b4f99c43,BAY,Israel,il,703866369687637,עוצמה יהודית,Facebook
+8aec2741-b06b-4c36-b9cc-424ce8854da0,Hosen Le`israel,2022-08-16T15:24:01.910Z,d963ee58-d3cb-415b-9b7d-8b81ac65cdce,KAL,Israel,il,224673221745617,Hosen Le`israel,Facebook
 217e5c90-d4bd-4d66-846d-4ee3ab104216,Ayman Odeh,2022-08-16T15:24:02.032Z,c483df47-535b-4a3d-b4da-27d0653a52ac,ARB,Israel,il,433529446712013,Ayman Odeh,Facebook
-34934e8b-e3af-4be5-9e4d-03c9160931f8,Chadash,2022-08-16T15:24:02.027Z,163457f5-448c-4189-a848-0e39b6fb5b6c,ARB,Israel,il,1557652337821070,Chadash,Facebook
+153e406c-4cad-4e3a-a862-85b03c850132,רפי פרץ,2022-08-16T15:24:02.191Z,09d82167-515e-4716-b3e8-a3db74a046ed,BAY,Israel,il,374907306627396,רפי פרץ,Facebook
+660a5b58-89a5-4a9a-942d-eb8d1de82b07,NewYaminParty,2022-08-16T15:24:01.828Z,3aba3d6d-62b2-4f1c-975c-750f20cc3cdf,YMH,Israel,il,754532351579456,NewYaminParty,Facebook
+37ad33d6-374f-4915-b397-45dd4a5fdc25,Benny Gantz,2022-08-16T15:24:01.946Z,59a8e7b2-1328-46d0-af20-43065f8a843f,KAL,Israel,il,266098094067590,Benny Gantz,Facebook
 448f4026-682e-4048-9a94-b37bcd538d21,Ahmad Tibi,2022-08-16T15:24:02.050Z,794bf70e-d60c-483c-941d-8f8f9ca00df8,ARB,Israel,il,128834187134576,Ahmad Tibi,Facebook
-5313b2ad-59e9-4cfc-ab59-bd3d3c1ca548,"תע""ל - العربية للتغيير",2022-08-16T15:24:02.074Z,1dda23f3-8957-4a84-aca6-5252b57b0c8b,ARB,Israel,il,610857865661458,"תע""ל - العربية للتغيير",Facebook
-e480c6d7-f6fd-4e84-b20f-a5e1de92e267,עופר כסיף Ofer Cassif,2022-08-16T15:24:18.582Z,738d1a2b-608c-4b3e-a7ac-705569219b90,ARB,Israel,il,383443225807218,עופר כסיף Ofer Cassif,Facebook
-e75fb08e-d7f0-4343-92b4-fddd84b0b313,"חד""ש Hadash",2022-08-16T15:24:18.458Z,ecc3cc2b-901c-4b35-b9ea-dbe710245612,ARB,Israel,il,54692744433,"חד""ש Hadash",Facebook
-21c363c4-5ec0-4522-9fbc-452ecdee0d4a,"טל רוסו אלוף במיל"" - Tal Rousso",2022-08-16T15:24:30.834Z,6ee61160-fa5c-41c0-a43a-c32282679016,AVD,Israel,il,593468687794012,"טל רוסו אלוף במיל"" - Tal Rousso",Facebook
-2801d2fc-77ce-4c71-bc15-4926d292a9b6,אבי גבאי,2022-08-16T15:24:02.123Z,e1b22422-831d-402c-a17c-09a761041972,AVD,Israel,il,1628159000736177,אבי גבאי,Facebook
-2d325237-4b5f-479f-8006-e08e3f07e10e,יאיא פינק,2022-08-16T15:24:30.834Z,7c9945a0-a27c-4f17-a3fd-635f70ebf21c,AVD,Israel,il,516372985411990,יאיא פינק,Facebook
-32bfb101-06e5-43da-8c48-7bff2ee26717,Avi Gabay,2022-08-16T15:24:01.976Z,79e189ac-3533-49ef-a50e-5a614684665d,AVD,Israel,il,1628159000736170,Avi Gabay,Facebook
-4ff43b81-cea1-4ec0-929f-75c5d5869d07,החוג הגאה - מפלגת העבודה,2022-08-16T15:24:02.183Z,61e2769f-28ce-4742-a44f-730d87dbca0d,AVD,Israel,il,221268114603237,החוג הגאה - מפלגת העבודה,Facebook
-7959fa0d-c598-4c2a-8219-eb44e5084973,Stav Shaffir סתיו שפיר,2022-08-16T15:24:02.181Z,81d098c0-c044-4e7d-b9d5-456b8980229f,AVD,Israel,il,1457440094475905,Stav Shaffir סתיו שפיר,Facebook
-d19e3ca3-7d63-4418-921b-30a7860451d0,Haavoda,2022-08-16T15:24:01.974Z,75deca6b-0c8f-4c89-9545-f0787836ed5c,AVD,Israel,il,163415037006030,Haavoda,Facebook
-e0898db4-9ea1-42d5-a344-647402f7d7d5,שלי יחימוביץ,2022-08-16T15:24:02.153Z,c8328127-2140-4e91-988e-7f539544fb0b,AVD,Israel,il,162319074217,שלי יחימוביץ,Facebook
-2a8a3ef6-c0d0-438f-a11b-04248ab055a5,Arye Deri,2022-08-16T15:24:02.105Z,6cb5799d-0249-4353-ad47-b2284e2c3f31,SHS,Israel,il,433095953410548,Arye Deri,Facebook
-d6599f7c-5d80-4bd3-96db-89c8047fec06,Shas,2022-08-16T15:24:02.102Z,bd90916b-ff43-4491-afcc-c20abb147da1,SHS,Israel,il,250584351635475,Shas,Facebook
+ae3c4c61-7d8c-4e1f-8fe8-047050f68eb2,איתמר בן גביר,2022-08-16T15:24:02.236Z,ba351073-fb70-46e6-82a3-372d1e37be9d,BAY,Israel,il,281777035357977,איתמר בן גביר,Facebook
+16612660-6708-4d37-9c79-52be0d9fe7ca,Benjamin Netanyahu,2022-08-16T15:24:01.754Z,cfcfcd86-c877-4fd4-a63f-5d3146e9468a,LIK,Israel,il,268108602075,Benjamin Netanyahu,Facebook
 72b5c899-f291-4e50-90f1-6a50f0d54f1c,Moshe Kahlon,2022-08-16T15:24:01.886Z,ba77fab0-dc79-468a-8827-de4858cf6c1b,KLN,Israel,il,1544176299159890,Moshe Kahlon,Facebook
-9982794a-7931-404c-81e1-d748a22a2238,אלי כהן - Eli Cohen,2022-08-16T15:24:30.558Z,ee4f471c-15cf-4446-8350-756f757afd22,KLN,Israel,il,450583275090800,אלי כהן - Eli Cohen,Facebook
-bb40fc0f-70a1-4f98-adfe-4f08d586e513,Kulanu,2022-08-16T15:24:01.881Z,ac061053-924a-4583-8363-bfc610e1ed6c,KLN,Israel,il,394037827428827,Kulanu,Facebook
+32bfb101-06e5-43da-8c48-7bff2ee26717,Avi Gabay,2022-08-16T15:24:01.976Z,79e189ac-3533-49ef-a50e-5a614684665d,AVD,Israel,il,1628159000736170,Avi Gabay,Facebook
+2801d2fc-77ce-4c71-bc15-4926d292a9b6,אבי גבאי,2022-08-16T15:24:02.123Z,e1b22422-831d-402c-a17c-09a761041972,AVD,Israel,il,1628159000736177,אבי גבאי,Facebook
+4b3a0bdd-aa70-4c4b-acff-9fd2e42eff11,Ayelet Shaked,2022-08-16T15:24:01.838Z,4cc1a916-e410-4328-b599-76a654c65480,YMH,Israel,il,237683826350051,Ayelet Shaked,Facebook
+33c30453-630d-4daf-b030-aa00ab155834,Gesher,2022-08-16T15:24:01.952Z,1d4c7acc-3e06-4f43-b356-e47f38d99167,GSR,Israel,il,338838956712485,Gesher,Facebook
+5313b2ad-59e9-4cfc-ab59-bd3d3c1ca548,"תע""ל - العربية للتغيير",2022-08-16T15:24:02.074Z,1dda23f3-8957-4a84-aca6-5252b57b0c8b,ARB,Israel,il,610857865661458,"תע""ל - العربية للتغيير",Facebook
 cb049214-01e8-43b1-a9dd-1304316c310d,משה כחלון,2022-08-16T15:24:02.143Z,a9a8b51e-043b-4cd7-9437-78f7641e68cf,KLN,Israel,il,1544176299159896,משה כחלון,Facebook
-a466f8d5-4a40-4464-8eba-aded158fd738,ZEHUT Party led by Moshe Feiglin,2022-08-16T15:24:30.835Z,9988901a-02aa-4225-8340-b84eeaf37e81,ZEH,Israel,il,376586646073176,ZEHUT Party led by Moshe Feiglin,Facebook
+1630f9a1-4e37-4967-9818-39abf30f0d1d,בצלאל סמוטריץ` - bezazelsmotrich,2022-08-16T15:24:01.708Z,4d69ed7c-8de1-45d5-bf1b-283e28bab3ee,BAY,Israel,il,429184557235927,בצלאל סמוטריץ` - bezazelsmotrich,Facebook
+05faba39-85b1-4235-ab45-bf97d646a26e,Naftali Bennet,2022-08-16T15:24:01.840Z,5e8e602b-712f-47d6-a6c1-665b3aa04db2,YMH,Israel,il,396697410351933,Naftali Bennet,Facebook
+04016a22-98c3-4fd8-bfd3-67e8b3178458,Orly Levy Abkasis,2022-08-16T15:24:01.957Z,b9cc446e-5dc6-4998-bcc1-26cf36d83e5a,GSR,Israel,il,612784452070209,Orly Levy Abkasis,Facebook
+2a8a3ef6-c0d0-438f-a11b-04248ab055a5,Arye Deri,2022-08-16T15:24:02.105Z,6cb5799d-0249-4353-ad47-b2284e2c3f31,SHS,Israel,il,433095953410548,Arye Deri,Facebook
+14e6cbe6-1b0c-4767-8144-8b9c1acb8d44,ברוך מרזל - העמוד הרשמי,2022-08-16T15:24:02.227Z,e5177d7f-2f90-4163-a06b-5b93249cb66c,BAY,Israel,il,1457371761180290,ברוך מרזל - העמוד הרשמי,Facebook
+55b30641-7746-4606-af51-9fdab4bd5a70,ישראל ביתנו beytenu,2022-08-16T15:24:01.819Z,4f8fec8b-dd9e-4cc9-a0b7-fcb5200aa830,ISB,Israel,il,370270343005611,ישראל ביתנו beytenu,Facebook
+1e111da0-68a5-4227-bec7-0adf734497c7,Yair Lapid,2022-08-16T15:24:01.901Z,37695310-008e-49b8-a0bb-003d6c686f60,KAL,Israel,il,107836625941364,Yair Lapid,Facebook
+34934e8b-e3af-4be5-9e4d-03c9160931f8,Chadash,2022-08-16T15:24:02.027Z,163457f5-448c-4189-a848-0e39b6fb5b6c,ARB,Israel,il,1557652337821070,Chadash,Facebook
+1a323d08-f21c-44df-91aa-9cfd1428ac1e,בני גנץ - Benny Gantz,2022-08-16T15:24:02.153Z,27b42863-c61b-4a1f-a823-c7873e6050f7,KAL,Israel,il,266097474067652,בני גנץ - Benny Gantz,Facebook
+021d388d-9df9-4fda-ae42-2fa57a5027a8,Avigdor Liberman,2022-08-16T15:24:01.820Z,b1f12ef2-35fb-4e26-8325-115f2ffb56f5,ISB,Israel,il,178433145502975,Avigdor Liberman,Facebook
+275592e6-0d55-450a-a507-e1ccde4d048d,Meretz,2022-08-16T15:24:02.005Z,b077da07-c2af-4b94-be1b-03955a75cd19,MRZ,Israel,il,7661338127,Meretz,Facebook
+7959fa0d-c598-4c2a-8219-eb44e5084973,Stav Shaffir סתיו שפיר,2022-08-16T15:24:02.181Z,81d098c0-c044-4e7d-b9d5-456b8980229f,AVD,Israel,il,1457440094475905,Stav Shaffir סתיו שפיר,Facebook
+41143ade-135d-4d46-ac6c-f323d36ea892,Ichud Leumi,2022-08-16T15:24:01.774Z,b16f95a8-a860-4fcc-932c-83dfb5138cd1,BAY,Israel,il,175285029214345,Ichud Leumi,Facebook
+a4000469-fbef-4454-9d16-db4b76d5dc22,Yesh Atid,2022-08-16T15:24:01.898Z,ad124a0d-f6a7-4573-a035-3d99cc65957a,KAL,Israel,il,426502237384307,Yesh Atid,Facebook
+7be4d677-2a2d-4c32-bae5-f8dbe41e8a6e,Tamar Zandberg,2022-08-16T15:24:02.022Z,5cb1bb2b-9ecc-4fdf-9b08-aeee5c5bc26d,MRZ,Israel,il,284775634985944,Tamar Zandberg,Facebook
+e0898db4-9ea1-42d5-a344-647402f7d7d5,שלי יחימוביץ,2022-08-16T15:24:02.153Z,c8328127-2140-4e91-988e-7f539544fb0b,AVD,Israel,il,162319074217,שלי יחימוביץ,Facebook
+f41ff260-62c4-421f-9fff-271c3a66ab20,עוצמה יהודית,2022-08-16T15:24:01.779Z,ee14a9fc-9e40-43e8-bc30-d7a8b4f99c43,BAY,Israel,il,703866369687637,עוצמה יהודית,Facebook
+ae3f5cb4-9fc7-4a23-8fbc-880796d1325f,Make Israel Great Again,2022-08-16T15:24:18.495Z,e376fcd8-c751-4b3c-a977-d4d763ffd49b,OTH,Israel,il,1872240076389608,Make Israel Great Again,Facebook
+e480c6d7-f6fd-4e84-b20f-a5e1de92e267,עופר כסיף Ofer Cassif,2022-08-16T15:24:18.582Z,738d1a2b-608c-4b3e-a7ac-705569219b90,ARB,Israel,il,383443225807218,עופר כסיף Ofer Cassif,Facebook
+c171a5af-2341-4862-bfcf-d1e50f84eb18,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",2022-08-16T15:24:18.457Z,b1dad184-c438-4fe5-b65d-4ff553f31480,KAL,Israel,il,173196886046831,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",Facebook
+e75fb08e-d7f0-4343-92b4-fddd84b0b313,"חד""ש Hadash",2022-08-16T15:24:18.458Z,ecc3cc2b-901c-4b35-b9ea-dbe710245612,ARB,Israel,il,54692744433,"חד""ש Hadash",Facebook
+23c3ca6f-451f-47f6-8239-529c4460c635,"גל הירש - יו""ר מפלגת מגן",2022-08-16T15:24:18.458Z,2bbeee67-8e1d-4c56-8b07-541dd50302a3,OTH,Israel,il,366819140098730,"גל הירש - יו""ר מפלגת מגן",Facebook
+a219d8bf-54a9-4788-97ee-4e14da012a45,אלי ישי,2022-08-16T15:24:18.458Z,e3a44e64-4913-42f1-98f3-5a21d41c3828,OTH,Israel,il,137409609701165,אלי ישי,Facebook
+59296472-f951-4d4d-8bde-e1189ec085a9,מפלגת ישר,2022-08-16T15:24:18.493Z,472ef552-52a2-40ab-b74f-37269959d38f,OTH,Israel,il,393249031211315,מפלגת ישר,Facebook
+760972db-b2f6-418e-a410-abf78ad53c86,Likud,2022-08-16T15:24:01.752Z,4cb37569-daea-456b-982d-1f14a1504666,LIK,Israel,il,109970322392972,Likud,Facebook
+bb40fc0f-70a1-4f98-adfe-4f08d586e513,Kulanu,2022-08-16T15:24:01.881Z,ac061053-924a-4583-8363-bfc610e1ed6c,KLN,Israel,il,394037827428827,Kulanu,Facebook
+d19e3ca3-7d63-4418-921b-30a7860451d0,Haavoda,2022-08-16T15:24:01.974Z,75deca6b-0c8f-4c89-9545-f0787836ed5c,AVD,Israel,il,163415037006030,Haavoda,Facebook
+d6599f7c-5d80-4bd3-96db-89c8047fec06,Shas,2022-08-16T15:24:02.102Z,bd90916b-ff43-4491-afcc-c20abb147da1,SHS,Israel,il,250584351635475,Shas,Facebook
+4ff43b81-cea1-4ec0-929f-75c5d5869d07,החוג הגאה - מפלגת העבודה,2022-08-16T15:24:02.183Z,61e2769f-28ce-4742-a44f-730d87dbca0d,AVD,Israel,il,221268114603237,החוג הגאה - מפלגת העבודה,Facebook
+4478770a-1114-48c1-a77f-b83ea575b658,איחוד מפלגות הימין,2022-08-16T15:24:28.058Z,57bc301f-d57e-4ff5-8b94-c8f1728c4566,BAY,Israel,il,591619938020008,איחוד מפלגות הימין,Facebook
+26edc750-3117-4b4c-b401-560e29ecbc6e,אורן חזן - Oren Hazan,2022-08-16T15:24:30.572Z,e5f857f8-3a2b-4fab-9624-39dbad452703,OTH,Israel,il,500681436740099,אורן חזן - Oren Hazan,Facebook
+9982794a-7931-404c-81e1-d748a22a2238,אלי כהן - Eli Cohen,2022-08-16T15:24:30.558Z,ee4f471c-15cf-4446-8350-756f757afd22,KLN,Israel,il,450583275090800,אלי כהן - Eli Cohen,Facebook
+efcb5a2c-07a5-4c32-abee-af4805df0283,גבי אשכנזי - Gabi Ashkenazi,2022-08-16T15:24:28.054Z,486b0501-c080-4ec6-8e02-f801c8f79f48,KAL,Israel,il,256477885275117,גבי אשכנזי - Gabi Ashkenazi,Facebook
+2d325237-4b5f-479f-8006-e08e3f07e10e,יאיא פינק,2022-08-16T15:24:30.834Z,7c9945a0-a27c-4f17-a3fd-635f70ebf21c,AVD,Israel,il,516372985411990,יאיא פינק,Facebook
+235f0b94-a0d5-4b5b-b659-659656f7426c,מפלגת צדק חברתי,2022-08-16T15:24:30.610Z,1022bb32-69c5-4d66-b6bd-401a61f93c3a,OTH,Israel,il,208201792645090,מפלגת צדק חברתי,Facebook
+2791ef6d-f325-4c24-a65c-3d06b63d6231,"Da""am Party - מפלגת דעם - حزب دعم",2022-08-16T15:24:30.832Z,ac3eb03c-7b27-4107-9f8e-28d07826fa55,OTH,Israel,il,224993517556428,"Da""am Party - מפלגת דעם - حزب دعم",Facebook
+111e1515-a580-43e1-b0f4-95bae381becb,Binyamin Lachkar - בנימין לאשקר,2022-08-16T15:24:30.834Z,e2b8a3a7-e64c-4e29-be9e-3f7154c4994b,LIK,Israel,il,300013370196836,Binyamin Lachkar - בנימין לאשקר,Facebook
+50499867-b03a-476f-a21b-417059f50106,יהדות התורה,2022-08-16T15:24:28.002Z,ccd473e3-e37d-4f85-9b8e-2406bcea905a,OTH,Israel,il,526338024136443,יהדות התורה,Facebook
+88abaea1-e82d-4c8b-b448-b1a0ee51958f,אברהם פורז - Avraham Poraz,2022-08-16T15:24:30.832Z,0ae12b0f-2ef8-45cc-804f-c376081682bd,OTH,Israel,il,407055960112051,אברהם פורז - Avraham Poraz,Facebook
+21c363c4-5ec0-4522-9fbc-452ecdee0d4a,"טל רוסו אלוף במיל"" - Tal Rousso",2022-08-16T15:24:30.834Z,6ee61160-fa5c-41c0-a43a-c32282679016,AVD,Israel,il,593468687794012,"טל רוסו אלוף במיל"" - Tal Rousso",Facebook
 ad566eaa-674e-456e-93a9-5d836756aeca,משה פייגלין,2022-08-16T15:24:28.002Z,ac19f81b-bceb-482c-926c-332dd558e141,ZEH,Israel,il,230709873674802,משה פייגלין,Facebook
+a466f8d5-4a40-4464-8eba-aded158fd738,ZEHUT Party led by Moshe Feiglin,2022-08-16T15:24:30.835Z,9988901a-02aa-4225-8340-b84eeaf37e81,ZEH,Israel,il,376586646073176,ZEHUT Party led by Moshe Feiglin,Facebook
