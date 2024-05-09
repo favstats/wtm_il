@@ -1,5 +1,8 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
 c8e9fe1d-a06f-462c-8d28-ccc375f0bc0e,Jewish Home - Habait Hayehudi,2022-08-16T15:24:01.761Z,2087bcf7-0a8c-4254-8813-550b0fe37b1d,BAY,Israel,il,519447478106655,Jewish Home - Habait Hayehudi,Facebook
+8aec2741-b06b-4c36-b9cc-424ce8854da0,Hosen Le`israel,2022-08-16T15:24:01.910Z,d963ee58-d3cb-415b-9b7d-8b81ac65cdce,KAL,Israel,il,224673221745617,Hosen Le`israel,Facebook
+217e5c90-d4bd-4d66-846d-4ee3ab104216,Ayman Odeh,2022-08-16T15:24:02.032Z,c483df47-535b-4a3d-b4da-27d0653a52ac,ARB,Israel,il,433529446712013,Ayman Odeh,Facebook
+153e406c-4cad-4e3a-a862-85b03c850132,רפי פרץ,2022-08-16T15:24:02.191Z,09d82167-515e-4716-b3e8-a3db74a046ed,BAY,Israel,il,374907306627396,רפי פרץ,Facebook
 660a5b58-89a5-4a9a-942d-eb8d1de82b07,NewYaminParty,2022-08-16T15:24:01.828Z,3aba3d6d-62b2-4f1c-975c-750f20cc3cdf,YMH,Israel,il,754532351579456,NewYaminParty,Facebook
 37ad33d6-374f-4915-b397-45dd4a5fdc25,Benny Gantz,2022-08-16T15:24:01.946Z,59a8e7b2-1328-46d0-af20-43065f8a843f,KAL,Israel,il,266098094067590,Benny Gantz,Facebook
 448f4026-682e-4048-9a94-b37bcd538d21,Ahmad Tibi,2022-08-16T15:24:02.050Z,794bf70e-d60c-483c-941d-8f8f9ca00df8,ARB,Israel,il,128834187134576,Ahmad Tibi,Facebook
@@ -29,9 +32,6 @@ a4000469-fbef-4454-9d16-db4b76d5dc22,Yesh Atid,2022-08-16T15:24:01.898Z,ad124a0d
 7be4d677-2a2d-4c32-bae5-f8dbe41e8a6e,Tamar Zandberg,2022-08-16T15:24:02.022Z,5cb1bb2b-9ecc-4fdf-9b08-aeee5c5bc26d,MRZ,Israel,il,284775634985944,Tamar Zandberg,Facebook
 e0898db4-9ea1-42d5-a344-647402f7d7d5,שלי יחימוביץ,2022-08-16T15:24:02.153Z,c8328127-2140-4e91-988e-7f539544fb0b,AVD,Israel,il,162319074217,שלי יחימוביץ,Facebook
 f41ff260-62c4-421f-9fff-271c3a66ab20,עוצמה יהודית,2022-08-16T15:24:01.779Z,ee14a9fc-9e40-43e8-bc30-d7a8b4f99c43,BAY,Israel,il,703866369687637,עוצמה יהודית,Facebook
-8aec2741-b06b-4c36-b9cc-424ce8854da0,Hosen Le`israel,2022-08-16T15:24:01.910Z,d963ee58-d3cb-415b-9b7d-8b81ac65cdce,KAL,Israel,il,224673221745617,Hosen Le`israel,Facebook
-217e5c90-d4bd-4d66-846d-4ee3ab104216,Ayman Odeh,2022-08-16T15:24:02.032Z,c483df47-535b-4a3d-b4da-27d0653a52ac,ARB,Israel,il,433529446712013,Ayman Odeh,Facebook
-153e406c-4cad-4e3a-a862-85b03c850132,רפי פרץ,2022-08-16T15:24:02.191Z,09d82167-515e-4716-b3e8-a3db74a046ed,BAY,Israel,il,374907306627396,רפי פרץ,Facebook
 ae3f5cb4-9fc7-4a23-8fbc-880796d1325f,Make Israel Great Again,2022-08-16T15:24:18.495Z,e376fcd8-c751-4b3c-a977-d4d763ffd49b,OTH,Israel,il,1872240076389608,Make Israel Great Again,Facebook
 e480c6d7-f6fd-4e84-b20f-a5e1de92e267,עופר כסיף Ofer Cassif,2022-08-16T15:24:18.582Z,738d1a2b-608c-4b3e-a7ac-705569219b90,ARB,Israel,il,383443225807218,עופר כסיף Ofer Cassif,Facebook
 c171a5af-2341-4862-bfcf-d1e50f84eb18,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",2022-08-16T15:24:18.457Z,b1dad184-c438-4fe5-b65d-4ff553f31480,KAL,Israel,il,173196886046831,"משה (בוגי) יעלון - Moshe (Bogie) Ya""alon",Facebook
